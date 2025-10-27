@@ -1,2 +1,2 @@
 hello world
-xin chao nguyen dang khoa sv1
+xin chao nguyen lam nhat tien sv2 .
